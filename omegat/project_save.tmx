@@ -14,7 +14,7 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.?????</seg>
+        <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.?????abcd</seg>
       </tuv>
       <tuv lang="JA" changeid="Yu-Tang" changedate="20130219T152236Z">
         <seg>「Google Translate returned HTTP response code: 403 ...」：pinfo.list ファイル（Mac の場合）に入力した 38 文字のキーが正しいか確認してください。</seg>
